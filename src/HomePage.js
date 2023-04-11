@@ -6,14 +6,14 @@ const HomePage = () => {
     <div className="gradient-bg">
       <div className="row">
         <div className="col s12">
-          <h1>Meus links</h1>
+          <h1>Blits Kids</h1>
           <ul>
             <li>
               <a
                 className="waves-effect waves-light btn"
                 href="https://site1.com"
               >
-                Site 1
+                Vitrine Virtual da Loja
               </a>
             </li>
             <li>
@@ -21,7 +21,7 @@ const HomePage = () => {
                 className="waves-effect waves-light btn"
                 href="https://site2.com"
               >
-                Site 2
+                Compre aqui
               </a>
             </li>
           </ul>
